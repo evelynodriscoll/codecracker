@@ -1,3 +1,3 @@
 # codebreaker
 
-Program to decrypt secret messages.
+Program to decrypt secret messages, with example.
